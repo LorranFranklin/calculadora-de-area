@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é o meu mais recente trabalho.
 
-- [Acesse o projeto finalizado, online](https://calculadora-de-area-lp8iy40lj-lorran-franklins-projects.vercel.app/)
+- [Acesse o projeto finalizado, online](https://calculadora-de-area-one.vercel.app/)
